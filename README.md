@@ -1,2 +1,2 @@
 # Image-Generator
-Image Generator made with OpenAI, vanilla Javascript, HTML, and CSS
+Image Generator made with OpenAI, vanilla Javascript, HTML, and CSS. Just for fun. I removed my API key for security purposes, obviously...
