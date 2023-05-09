@@ -1,2 +1,2 @@
 # Image-Generator
-Image Generator made with Dall-E  and Javascript
+Image Generator made with OpenAI, vanilla Javascript, HTML, and CSS
