@@ -1,5 +1,4 @@
 
-
 const submitIcon = document.querySelector("#submit-icon")
 const inputElement = document.querySelector("input")
 const imageSection = document.querySelector('.image-section')
